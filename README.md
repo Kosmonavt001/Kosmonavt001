@@ -1,6 +1,6 @@
 ### :woman_technologist: &nbsp; About Me :
 
-I am a programmer from Russia! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a developer from Russia! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 🔭 I’m mobile-dev.
 - 🌱 I love programming in Java and Python.
 - ⚡ I'm developing AstraX.
