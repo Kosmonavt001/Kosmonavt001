@@ -35,24 +35,24 @@ I am a programmer from Russia! <img src="https://media.giphy.com/media/WUlplcMpO
 <div>
   <table align="center">
           <tr>
-              <td><a href="https://t.me/KosmoNavtDeveloper">C++</a> - 70% ; I always program</td>
-              <td><a href="https://t.me/KosmoNavtDeveloper">Python</a> - 70% ; I always program</td>
+              <td><a href="https://t.me/KosmoNavtDeveloper">Java</a> - 100% ; I always program</td>
+              <td><a href="https://t.me/KosmoNavtDeveloper">Kotlin</a> - 100% ; I always program</td>
           </tr>
           <tr>
-              <td><a href="https://t.me/KosmoNavtDeveloper">Java</a> - 50% ; I often program</td>
-              <td><a href="https://t.me/KosmoNavtDeveloper">Kotlin</a> - 50% ; I often program</td>
+              <td><a href="https://t.me/KosmoNavtDeveloper">C++</a> - 40% ; I often program</td>
+              <td><a href="https://t.me/KosmoNavtDeveloper">Python</a> - 60% ; I often program</td>
           </tr>
           <tr>
               <td><a href="https://t.me/KosmoNavtDeveloper">Node.js</a> - 40%;  Sometimes I program</td>
               <td><a href="https://t.me/KosmoNavtDeveloper">С#</a> - 40%; Sometimes I program</td>
           </tr>
           <tr>
-              <td><a href="https://t.me/KosmoNavtDeveloper">PHP</a> - 40% ; Sometimes I program</td>
+              <td><a href="https://t.me/KosmoNavtDeveloper">PHP</a> - 60% ; Sometimes I program</td>
               <td><a href="https://t.me/KosmoNavtDeveloper">HTML/CSS/JS</a> - 70% ; I always program</td>
           </tr>
           <tr>
-              <td><a href="https://t.me/KosmoNavtDeveloper">Swift</a> - 30% ; I don't always program</td>
-              <td><a href="https://t.me/KosmoNavtDeveloper">Golang</a> - 30% ; I don't always program</td>
+              <td><a href="https://t.me/KosmoNavtDeveloper">Swift</a> - 10% ; I don't always program</td>
+              <td><a href="https://t.me/KosmoNavtDeveloper">Golang</a> - 20% ; I don't always program</td>
           </tr>
   </table>
 </div>
