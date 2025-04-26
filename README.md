@@ -4,7 +4,7 @@ I am a programmer from Russia! <img src="https://media.giphy.com/media/WUlplcMpO
 - 🔭 I’m mobile-dev.
 - 🌱 I love programming in Java and Python.
 - ⚡ I'm developing AstraX.
-- ✈️ My Telegram: &nbsp; [![Telegram](https://github.com/twbs/icons/blob/main/icons/telegram.svg)](https://t.me/Kosmonavt001)
+- ✈️ My Telegram: @KosmoNavt001
 
 ---
 
