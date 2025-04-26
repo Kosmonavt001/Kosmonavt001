@@ -1,8 +1,8 @@
 ### :woman_technologist: &nbsp; About Me :
 
 I am a programmer from Russia! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🔭 I’m fullstack-developer.
-- 🌱 I love programming in C++ and Python.
+- 🔭 I’m mobile-dev.
+- 🌱 I love programming in Java and Python.
 - ⚡ I'm developing my game.
 - ✈️ My Telegram: &nbsp; [![Telegram](https://github.com/twbs/icons/blob/main/icons/telegram.svg)](https://t.me/Kosmonavt001)
 
